@@ -1,5 +1,14 @@
 
-random_number = get_random_number(1, 100)
+def get_random_number():
+    pass
+
+def get_user_guess():
+    pass
+
+def get_game_message():
+    pass
+
+#random_number = get_random_number(1, 100)
 
 print('Welcome to the number guessing game!')
 
